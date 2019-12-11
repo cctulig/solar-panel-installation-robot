@@ -1,5 +1,5 @@
-# search-and-rescue-robot
-Search &amp; Rescue Robot
+# solar-panel-installation-robot
+Solar-panel Installation Robot
 
 Robotics final project utilizing autonomous pathfinding, relative and absolute position control, and beacon frequency filtering and detection.
 
